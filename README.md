@@ -1,4 +1,4 @@
-# My first project on **bash,make, git & github** 
- Created on: 08/17/20
+# My first project on **Bash, Make, Git & GitHub** 
+ Created on:  08/17/20
 
- The number of lines of code contained in guessinggame.sh: 21
+ The number of lines of code contained in guessinggame.sh:  21
